@@ -1,128 +1,67 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/Article" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
-	<head>
-		<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KTBZG38');</script>
-<!-- End Google Tag Manager -->
-		<title itemprop="name">{{ page.title }}</title>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="title" property="og:title" content="{{ page.title }}">
-		<meta name="description" property="og:description" itemprop="description" content="{{ page.description }}">
-		<meta property="og:url" content="https://omnimacs.co.za{{ page.url }}">
-		<meta property="og:image" itemprop="image" content="{% if page.image %}{{ page.image }}{% endif %}">
-		<meta property="og:site_name" content="OmniMACS"/>
-		<meta property="og:type" content="article"/>
-		<meta property="fb:admins" content="691362690"/>
-		<meta property="fb:app_id" content="629810507152703" />
-		<meta name="keywords" content="marketing, administration, communication, small-to-medium-businesses, projects, seo, web development, graphic design, research, copywriting, content creation, transcription services, data capture, data mining, data analysis, data visualisation" />
-		<link rel="stylesheet" href="https://omnimacs.co.za/stylesheets/bootstrap.min.css">
-		<link href='https://fonts.googleapis.com/css?family=Questrial:400' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="https://omnimacs.co.za/stylesheets/style.css">
-		<!-- favicon -->
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: "OmniMACS" }}</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+	<!-- Custom CSS from mockup -->
+	<link rel="stylesheet" href="https://omnimacs.co.za/stylesheets/style.css">
+	<!-- favicon -->
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
-	<body id="reasons">
-		<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTBZG38"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<!-- Facebook SDK -->	
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '629810507152703',
-      xfbml      : true,
-      version    : 'v2.2'
-    });
-  };
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-		<!-- NAVBAR
-================================================== -->	
-<div class="navbar-wrapper">
-      <div class="container">
-        <nav class="navbar navbar-default navbar-fixed-top">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="https://omnimacs.co.za">OmniMACS</a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services<span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="https://omnimacs.co.za#market">Marketing</a></li>
-                    <li><a href="httsp://omnimacs.co.za#admin">Administration</a></li>
-                    <li><a href="https://omnimacs.co.za#comm">Communication</a></li>
-                  </ul>
-                </li>
-                <li><a href="https://omnimacs.co.za#about">Why use us?</a></li>
-                <li><a href="https://omnimacs.co.za#intouch">Contact</a></li>
-                <li><a href="https://omnimacs.co.za/blog">Blog</a></li>
-              </ul>
-            </div>
-          </div>
-        </nav>
+<body>
 
-      </div>
-    </div> <!-- NAVBAR -->
-<div class="wrap-thanks">
-  <div class="container" id="thanks1">
-    	<div class="row">
-		<div class="col-md-6 center-block" itemprop="articleBody">
-			 {{ content }} 
-			 <a href="http://omnimacs.co.za"><img src="https://cloud.githubusercontent.com/assets/9150985/6391499/6ce25e44-bdbf-11e4-8396-0cfe65b2cae1.png" class="img-responsive title-logo" alt="home page"></a>
-	      	</div>
-	</div>
-  </div> 
-</div> <!-- close wrap-thanks -->
-	<!-- FOOTER -->
- 	<div class="wrap-white">
-		<div class="container footer">
-			<div class="row">
-				<div class="col-md-12">
-        				<ul class="list-unstyled text-center">
-						      <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> +27 72 379 1217</li>
-						      <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@omnimacs.co.za">  info@omnimacs.co.za</a></li>
-						      <li><span class="fb-follow" data-href="https://www.facebook.com/omnimacs" data-width="225" data-colorscheme="light" data-layout="standard" data-show-faces="false"></span></li>
-					</ul>
-        			</div>	
-      			</div>
-      			<div class="row">
-				<div class="col-md-12">
-        				<p class="pull-right"><a href="#">Back to top</a></p>
-        				<p>&copy; 2019 OmniMACS &middot; <a href="https://omnimacs.co.za/privacy">Privacy</a> &middot; <a href="#"></a></p>
-        			</div>	
-      			</div>
-      		</div>
-      	</div>	
-              		<script type="text/javascript" src="https://omnimacs.co.za/js/jquery-1.11.2.min.js"></script>
-              		<script type="text/javascript" src="https://omnimacs.co.za/js/bootstrap.min.js"></script>
-              		<!-- collapse expanded mobile navbar after clicking a link -->
-              		<script>
-              		$(document).on('click','.navbar-collapse.in',function(e) {
-              			if( $(e.target).is('a') && ( $(e.target).attr('class') != 'dropdown-toggle' ) ) {
-              			$(this).collapse('hide');
-              		    		}
-              			});	
-              		</script>
-	</body>
+    <!-- Global Navigation (Header) -->
+    <nav class="navbar navbar-expand-lg sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-chart-line text-primary me-2" style="color: var(--brand-primary) !important;"></i>OmniMACS</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav align-items-center">
+                    <li class="nav-item"><a class="nav-link" href="#">Strategy</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Architecture</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Growth Engines</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    <li class="nav-item ms-lg-3"><a class="nav-link btn-brand-primary" href="#" style="padding: 0.5rem 1rem;">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Jekyll Content Injection -->
+    <main style="padding-top: 76px;">
+        {{ content }}
+    </main>
+
+    <!-- Global Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-4 mb-3 mb-md-0 text-center text-md-start">
+                    <a href="#" class="text-white text-decoration-none fw-bold fs-4"><i class="fa-solid fa-chart-line me-2" style="color: var(--brand-primary);"></i>OmniMACS</a>
+                </div>
+                <div class="col-md-8 text-center text-md-end">
+                    <a href="#" class="footer-link">Strategy</a>
+                    <a href="#" class="footer-link">Architecture</a>
+                    <a href="#" class="footer-link">Growth Engines</a>
+                    <a href="#" class="footer-link">Privacy Policy</a>
+                    <a href="#" class="footer-link"><i class="fa-brands fa-linkedin fs-5 align-middle"></i> LinkedIn</a>
+                </div>
+            </div>
+            <hr style="border-color: #4a5568; margin: 2rem 0;">
+            <div class="text-center text-muted small">
+                © 2026 OmniMACS. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>
