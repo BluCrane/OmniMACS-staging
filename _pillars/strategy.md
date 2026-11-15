@@ -1,23 +1,11 @@
 ---
 layout: pillar
 title: Strategy & Investment Readiness
-subtitle: Turn your vision into an investable reality.
+subtitle: Turn your vision into an investable reality. Bridge the gap between high-level business strategy and digital execution.
 icon: fa-solid fa-chess-knight
 card_summary: We define your business model canvas, architect demand-generation funnels, and craft the strategic narratives required to secure funding.
 ---
-
- <!-- 2. Pillar Hero Section -->
-        <header class="hero-section text-center">
-            <div class="container">
-                <h1 class="hero-title">Strategy & Investment Readiness</h1>
-                <p class="hero-subtitle mb-4 mx-auto" style="max-width: 800px;">
-                    Turn your vision into an investable reality. Bridge the gap between high-level business strategy and digital execution.
-                </p>
-                <a href="#" class="btn btn-brand-primary btn-lg">Discuss Your Strategy Needs</a>
-            </div>
-        </header>
-
-        <!-- 3. The Pain Point & Solution -->
+<!-- 3. The Pain Point & Solution -->
         <section class="py-5 bg-white text-center">
             <div class="container">
                 <div class="mx-auto" style="max-width: 800px;">
