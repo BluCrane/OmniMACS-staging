@@ -2,7 +2,7 @@
 layout: pillar
 title: Strategy & Investment Readiness
 subtitle: Turn your vision into an investable reality. Bridge the gap between high-level business strategy and digital execution.
-description: "Brand positioning, investment support, and platform strategies for startups that need  direction, funding, or a pivot."
+description: Brand positioning, investment support, and platform strategies for startups that need  direction, funding, or a pivot.
 icon: fa-solid fa-chess-knight
 card_summary: We define your business model canvas, architect demand-generation funnels, and craft the strategic narratives required to secure funding.
 ---
@@ -26,10 +26,10 @@ card_summary: We define your business model canvas, architect demand-generation 
 </div>
 <div class="col-md-6 px-lg-5">
 <h3 class="fw-bold">Brand & Go-to-Market Positioning</h3>
-<p class="text-muted">Define the core pillars of your business model canvas, USPs, and revenue model to ensure market fit and differentiation.</p>
+<p class="text-muted">Define the core pillars of your business model to ensure market fit, differentiation, and scalability.</p>
 <ul class="list-unstyled text-muted mt-3">
-<li><i class="fa-solid fa-check text-primary me-2" style="color: var(--brand-primary)"></i> Business Model Canvas</li>
-<li><i class="fa-solid fa-check text-primary me-2" style="color: var(--brand-primary)"></i> Unique Selling Propositions (USPs)</li>
+<li><i class="fa-solid fa-check text-primary me-2" style="color: var(--brand-primary)"></i> Market & Customer Analysis</li>
+<li><i class="fa-solid fa-check text-primary me-2" style="color: var(--brand-primary)"></i> Infrastructure & Operations</li>
 <li><i class="fa-solid fa-check text-primary me-2" style="color: var(--brand-primary)"></i> Revenue Strategy</li>
 </ul>
 </div>
