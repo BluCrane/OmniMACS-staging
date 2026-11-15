@@ -22,7 +22,7 @@ card_summary: We define your business model canvas, architect demand-generation 
 <h2 class="text-center fw-bold mb-5">Strategy Modules</h2>
 <div class="row module-row align-items-center mb-5">
 <div class="col-md-6 mb-4 mb-md-0">
-<img src="https://placehold.co/600x400/dcdcdc/2c3e50?text=Brand+Positioning" alt="Brand Positioning" class="img-fluid rounded shadow-sm">
+<img src="https://blucrane.github.io/OmniMACS-staging/images/bmc.jpg" alt="Brand Positioning" class="img-fluid rounded shadow-sm">
 </div>
 <div class="col-md-6 px-lg-5">
 <h3 class="fw-bold">Brand & Go-to-Market Positioning</h3>
