@@ -22,7 +22,7 @@ permalink: /contact/
 <div class="col-lg-7">
 <div class="card border-0 shadow-sm p-4 p-md-5" style="background-color: var(--brand-light);">
 <h3 class="fw-bold mb-4">Request a Discovery Session</h3>
-<p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and our operating partners will be in touch shortly.</p>
+<p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and we will be in touch shortly.</p>
   
 <!-- HubSpot Form Injection -->
 <script src="https://js-eu1.hsforms.net/forms/embed/149785076.js" defer></script>
