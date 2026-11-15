@@ -83,7 +83,7 @@
 
         /* Hero Section */
         .hero-section {
-            background-color: var(--brand-bg-light);
+            background-color: #F2F4F9;
             padding: 6rem 0;
         }
         .hero-title {
