@@ -12,7 +12,7 @@ card_summary:  Grow revenue without the agency retainers. Spin up highly targete
 <div class="mx-auto" style="max-width: 800px;">
 <h3 class="fw-bold mb-3">Execution That Drives ROI</h3>
 <p class="lead text-muted">
-Stop wasting budget on disjointed tactics and long-term agency retainers that don't translate to pipeline or platform liquidity. We spin up specific growth engines only when you are ready to scale.
+Stop wasting budget on disjointed tactics and long-term agency retainers that don't translate to pipeline or platform liquidity. We spin up modular growth engines that support your specific business model.
 </p>
 </div>
 </div>
