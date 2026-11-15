@@ -5,6 +5,7 @@ subtitle: Turn your vision into an investable reality. Bridge the gap between hi
 icon: fa-solid fa-chess-knight
 card_summary: We define your business model canvas, architect demand-generation funnels, and craft the strategic narratives required to secure funding.
 ---
+
 <!-- 3. The Pain Point & Solution -->
         <section class="py-5 bg-white text-center">
             <div class="container">
