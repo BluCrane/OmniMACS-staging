@@ -6,7 +6,7 @@ description: We evaluate, deploy, and connect the technology you need for predic
 icon: fa-solid fa-network-wired
 card_summary: Build a foundation that scales. We evaluate, deploy, and connect the technology you need—from high-converting websites and CRM pipelines to marketing automation and remote team infrastructure.
 ---
- <!-- 3. The Pain Point & Solution -->
+<!-- 3. The Pain Point & Solution -->
         <section class="py-5 bg-white text-center">
             <div class="container">
                 <div class="mx-auto" style="max-width: 800px;">
@@ -18,7 +18,7 @@ card_summary: Build a foundation that scales. We evaluate, deploy, and connect t
             </div>
         </section>
 
-        <!-- 4. The Modules -->
+<!-- 4. The Modules -->
         <section class="py-5 bg-light">
             <div class="container">
                 <h2 class="text-center fw-bold mb-5">Architecture Modules</h2>
@@ -70,7 +70,7 @@ card_summary: Build a foundation that scales. We evaluate, deploy, and connect t
             </div>
         </section>
 
-        <!-- 5. How It Works -->
+<!-- 5. How It Works -->
         <section class="py-5 bg-white text-center">
             <div class="container">
                 <h2 class="fw-bold mb-5">How It Works: The Sprint Model</h2>
@@ -94,7 +94,7 @@ card_summary: Build a foundation that scales. We evaluate, deploy, and connect t
             </div>
         </section>
 
-        <!-- 6. Bottom CTA -->
+<!-- 6. Bottom CTA -->
         <section class="cta-section text-center">
             <div class="container">
                 <h2 class="display-5 fw-bold mb-3">Ready to stop guessing and start building?</h2>
