@@ -2,6 +2,7 @@
 layout: pillar
 title: Modular Growth Engines
 subtitle: Grow revenue without the agency retainers. Execute targeted, data-backed growth sprints.
+cta_text: Discuss Your Growth Needs
 description: We spin up and test growth channels that are best suited to your business model. 
 icon: fa-solid fa-rocket
 card_summary:  Grow revenue without the agency retainers. Spin up highly targeted, data-backed sprints for B2B lead generation, authoritative content, and paid media when you are ready to scale.
