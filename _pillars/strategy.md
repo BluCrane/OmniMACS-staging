@@ -2,6 +2,7 @@
 layout: pillar
 title: Strategy & Investment Readiness
 subtitle: Turn your vision into an investable reality. Bridge the gap between high-level business strategy and digital execution.
+cta_text: Discuss Your Strategy Needs
 description: Brand positioning, investment support, and platform strategies for startups that need  direction, funding, or a pivot.
 icon: fa-solid fa-chess-knight
 card_summary: We define your business model canvas, architect demand-generation funnels, and craft the strategic narratives required to secure funding.
