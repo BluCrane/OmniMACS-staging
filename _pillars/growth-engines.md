@@ -1,10 +1,10 @@
 ---
 layout: pillar
 title: Modular Growth Engines
-subtitle: Predictable revenue without the agency retainers. Execute targeted, data-backed growth sprints.
-description: We evaluate, deploy, and connect the technology you need for predictable growth.
-icon: fa-solid fa-network-wired
-card_summary: Build a foundation that scales. We evaluate, deploy, and connect the technology you need—from high-converting websites and CRM pipelines to marketing automation and remote team infrastructure.
+subtitle: Grow revenue without the agency retainers. Execute targeted, data-backed growth sprints.
+description: We spin up and test growth channels that are best suited to your business model. 
+icon: fa-solid fa-rocket
+card_summary:  Grow revenue without the agency retainers. Spin up highly targeted, data-backed sprints for B2B lead generation, authoritative content, and paid media when you are ready to scale.
 ---
 <!-- 3. The Pain Point & Solution -->
 <section class="py-5 bg-white text-center">
