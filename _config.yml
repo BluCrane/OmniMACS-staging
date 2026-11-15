@@ -3,3 +3,7 @@ url: "https://omnimacs.co.za"
 markdown: kramdown
 gems:
   - jekyll-sitemap
+collections:
+  pillars:
+    output: true
+    permalink: /:title/
