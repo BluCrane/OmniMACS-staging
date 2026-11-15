@@ -1,4 +1,5 @@
 ---
+layout: pillar
 title: Strategy & Investment Readiness
 subtitle: Turn your vision into an investable reality.
 icon: fa-solid fa-chess-knight
