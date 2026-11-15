@@ -8,8 +8,8 @@ permalink: /contact/
 <!-- Contact Hero Section -->
 <section class="py-5 bg-light text-center border-bottom">
 <div class="container py-4">
-<h1 class="display-4 fw-bold mb-3">Let's Build Your Growth Architecture</h1>
-<p class="lead text-muted mx-auto" style="max-width: 700px;">Whether you need an investor-grade strategic narrative, a robust tech stack, or modular growth engines, we’re ready to operate.</p>
+<h1 class="display-4 fw-bold mb-3">Stop guessing. Start building.</h1>
+<p class="lead text-muted mx-auto" style="max-width: 700px;">Whether you need an investor-grade strategic narrative or a fully deployed growth engine, we have you covered. Tell us about your current roadblocks.</p>
 </div>
 </section>
 
@@ -21,7 +21,9 @@ permalink: /contact/
 <!-- Left Column: The HubSpot Form -->
 <div class="col-lg-7">
 <div class="card border-0 shadow-sm p-4 p-md-5" style="background-color: var(--brand-light);">
-<h3 class="fw-bold mb-4">Initiate a Sprint</h3>
+<h3 class="fw-bold mb-4">Request a Discovery Session</h3>
+<p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and our operating partners will be in touch shortly.</p>
+  
 <!-- HubSpot Form Injection -->
 <script src="https://js-eu1.hsforms.net/forms/embed/149785076.js" defer></script>
 <div class="hs-form-frame" data-region="eu1" data-form-id="d412b5aa-9f67-4576-a0d2-952af3ea5711" data-portal-id="149785076"></div>
