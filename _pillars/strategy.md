@@ -11,7 +11,7 @@ card_summary: We define your business model canvas, architect demand-generation 
 <div class="container">
 <div class="mx-auto" style="max-width: 800px;">
 <h3 class="fw-bold mb-3">The Blueprint for Scale</h3>
-<p class="lead text-muted">Startup founders and tech leaders often struggle to align their grand vision with the harsh realities of venture capital expectations and platform economics. We remove the guesswork by crafting investor-grade strategic narratives and robust monetization models.</p>
+<p class="lead text-muted">Startup founders and tech leaders often struggle to align their grand vision with the harsh realities of venture capital expectations and platform economics. We remove the guesswork by crafting investor-grade strategic narratives and robust business models.</p>
 </div>
 </div>
 </section>
