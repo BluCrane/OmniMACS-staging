@@ -81,24 +81,45 @@ title: OmniMACS | Fractional Growth Architecture
     </section>
 
     <!-- 5. The 3 Pillars Section -->
-   <section class="container py-5 text-center">
-    <h2 class="fw-bold mb-3">Architecting Your Digital Valuation</h2>
-    <p class="text-muted mb-5">Modular growth solutions built for your current stage of scale.</p>
-    
-    <div class="row g-4 justify-content-center">
-        {% for pillar in site.pillars %}
-        <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm p-4">
-                <div class="card-body">
-                    <i class="{{ pillar.icon }} fa-3x text-primary mb-3"></i>
-                    <h3 class="h5 fw-bold">{{ pillar.title }}</h3>
-                    <p class="text-muted mb-4">{{ pillar.card_summary }}</p>
-                    <a href="{{ pillar.url }}" class="btn btn-outline-primary w-100 mt-auto">Explore {{ pillar.title | split: " " | first }}</a>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+<section class="pillars-section">
+<div class="container">
+<div class="text-center mb-5">
+<h2 class="display-6 fw-bold mb-3">Architecting Your Digital Valuation</h2>
+<p class="lead text-muted">Modular growth solutions built for your current stage of scale.</p>
+</div>
+<div class="row g-4">
+<div class="col-lg-4">
+<div class="card pillar-card p-4 text-center">
+<div class="card-body d-flex flex-column">
+<i class="fa-solid fa-chess-knight pillar-icon"></i>
+<h4 class="card-title fw-bold mb-3">Strategy & Investment Readiness</h4>
+<p class="card-text text-muted flex-grow-1">Turn your vision into an investable reality. We define your business model canvas, architect demand-generation funnels, and craft the strategic narratives required to secure funding and achieve platform liquidity.</p>
+<a href="#" class="btn btn-outline-brand mt-4 w-100">Explore Strategy</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="card pillar-card p-4 text-center">
+<div class="card-body d-flex flex-column">
+<i class="fa-solid fa-network-wired pillar-icon"></i>
+<h4 class="card-title fw-bold mb-3">Digital Ecosystem Architecture</h4>
+<p class="card-text text-muted flex-grow-1">Build a foundation that scales. We evaluate, deploy, and connect the technology you need—from high-converting websites and CRM pipelines to marketing automation and remote team infrastructure.</p>
+<a href="#" class="btn btn-outline-brand mt-4 w-100">Explore Architecture</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="card pillar-card p-4 text-center">
+<div class="card-body d-flex flex-column">
+<i class="fa-solid fa-rocket pillar-icon"></i>
+<h4 class="card-title fw-bold mb-3">Modular Growth Engines</h4>
+<p class="card-text text-muted flex-grow-1">Predictable revenue without the agency retainers. Spin up highly targeted, data-backed sprints for B2B lead generation, authoritative content, and paid media only when you are ready to scale.</p>
+<a href="#" class="btn btn-outline-brand mt-4 w-100">Explore Growth Sprints</a>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
 
     <!-- 6. The Operator Advantage -->
