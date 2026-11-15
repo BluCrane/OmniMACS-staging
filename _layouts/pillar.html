@@ -7,7 +7,7 @@ layout: default
         <i class="{{ page.icon }} fa-3x text-primary mb-3"></i>
         <h1 class="display-4 fw-bold text-dark">{{ page.title }}</h1>
         <p class="lead text-muted">{{ page.subtitle }}</p>
-        <a href="#contact" class="btn btn-primary btn-lg mt-3">Discuss Your {{ page.title | split: " " | first }} Needs</a>
+        <a href="#contact" class="btn btn-primary btn-lg mt-3">{{ page.cta_text | default: "Discuss Your Project Needs" }}</a>
     </div>
 </section>
 
