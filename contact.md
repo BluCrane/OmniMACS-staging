@@ -20,7 +20,7 @@ permalink: /contact/
 
 <!-- Left Column: The HubSpot Form -->
 <div class="col-lg-7">
-<div class="card border-0 shadow-sm p-4 p-md-5" style="background-color: var(--brand-light);">
+<div class="card border-0 shadow-sm p-4 p-md-5" style="height: 90%; background-color: var(--brand-secondary);">
 <h3 class="fw-bold mb-4">Request a Discovery Session</h3>
 <p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and we will be in touch shortly.</p>
   
@@ -32,7 +32,7 @@ permalink: /contact/
 
 <!-- Right Column: Value Prop & Next Steps -->
 <div class="col-lg-5">
-<div class="pe-lg-4">
+<div class="pe-lg-4" style="color: gray;">
 <h3 class="fw-bold mb-4">What Happens Next?</h3>
 <p class="text-muted mb-5">We operate as an extension of your team, not a traditional agency. Here is how we evaluate if we are the right fit for your current stage of scale.</p>
 
