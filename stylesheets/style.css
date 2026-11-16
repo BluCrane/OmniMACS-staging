@@ -207,9 +207,7 @@
 
  /* CONTACT PAGE */
         /* Remove Hubspot branding */
-        #hs-form-virality-container {
-            width: 0px !important;
-        }
+       
 
         @media (max-width: 768px) {
             .hero-title {
