@@ -20,13 +20,13 @@ permalink: /contact/
 
 <!-- Left Column: The HubSpot Form -->
 <div class="col-lg-7">
-<div class="card border-0 shadow-sm p-4 p-md-5" style="background-color: var(--brand-light);">
+<div class="card border-0 shadow-sm p-4 p-md-5" style="height: 500px; background-color: var(--brand-light);">
 <h3 class="fw-bold mb-4">Request a Discovery Session</h3>
 <p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and we will be in touch shortly.</p>
   
 <!-- HubSpot Form Injection -->
 <script src="https://js-eu1.hsforms.net/forms/embed/149785076.js" defer></script>
-<div class="hs-form-frame" style="height: 500px;" data-region="eu1" data-form-id="d412b5aa-9f67-4576-a0d2-952af3ea5711" data-portal-id="149785076"></div>
+<div class="hs-form-frame" data-region="eu1" data-form-id="d412b5aa-9f67-4576-a0d2-952af3ea5711" data-portal-id="149785076"></div>
 </div>
 </div>
 
