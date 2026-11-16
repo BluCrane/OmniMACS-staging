@@ -204,12 +204,12 @@
             font-weight: 700;
             margin-bottom: 1rem;
         }
- /* CONTACT PAGE */
-/* Remove Hubspot branding */
-#hs-form-virality-container {
-  display: none !important;
-}
 
+ /* CONTACT PAGE */
+        /* Remove Hubspot branding */
+        #hs-form-virality-container {
+            display: none !important;
+        }
 
         @media (max-width: 768px) {
             .hero-title {
