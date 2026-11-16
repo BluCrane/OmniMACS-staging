@@ -102,6 +102,6 @@ Tech agencies build brilliant software, but their own tech stack is often a patc
 <p class="lead mb-5 mx-auto" style="max-width: 600px; font-weight: 500;">
 Secure your digital foundation so you can scale without friction.
 </p>
-<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Book an Architecture Call</a>
+<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Request an Architecture Call</a>
 </div>
 </section>
