@@ -21,7 +21,7 @@ permalink: /contact/
 <!-- Left Column: The HubSpot Form -->
 <div class="col-lg-7">
 <div class="card border-0 shadow-sm p-4 p-md-5" style="height: 90%; background-color: var(--brand-secondary);">
-<h3 class="fw-bold mb-4">Request a Discovery Session</h3>
+<h3 class="fw-bold mb-4">Request a Discovery Call</h3>
 <p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and we will be in touch shortly.</p>
   
 <!-- HubSpot Form Injection -->
