@@ -102,6 +102,6 @@ Stop wasting budget on disjointed tactics and long-term agency retainers that do
 <p class="lead mb-5 mx-auto" style="max-width: 600px; font-weight: 500;">
 Ignite your revenue engines with data-backed execution sprints.
 </p>
-<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Book a Growth Call</a>
+<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Request a Growth Call</a>
 </div>
 </section>
