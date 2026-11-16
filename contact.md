@@ -26,7 +26,7 @@ permalink: /contact/
   
 <!-- HubSpot Form Injection -->
 <script src="https://js-eu1.hsforms.net/forms/embed/149785076.js" defer></script>
-<div class="hs-form-frame" data-region="eu1" data-form-id="d412b5aa-9f67-4576-a0d2-952af3ea5711" data-portal-id="149785076" style="height: 500px;"></div>
+<div class="hs-form-frame" data-region="eu1" data-form-id="d412b5aa-9f67-4576-a0d2-952af3ea5711" data-portal-id="149785076" style="height: 500px !important;"></div>
 </div>
 </div>
 
