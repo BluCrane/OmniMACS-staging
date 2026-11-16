@@ -207,7 +207,7 @@
 
  /* CONTACT PAGE */
         /* Remove Hubspot branding */
-        #hs-form-virality-container {
+        #hs-form-virality-iframe {
             display: none !important;
         }
 
