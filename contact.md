@@ -42,7 +42,7 @@ permalink: /contact/
 </div>
 <div class="ms-3">
 <h5 class="fw-bold">Discovery Call</h5>
-<p class="text-muted small">A 30-minute deep dive into your current unit economics, tech stack bottlenecks, and growth objectives.</p>
+<p class="text-muted small">A free 30-minute call to unpack your current marketing stack, sales pipeline, and growth objectives.</p>
 </div>
 </div>
 
@@ -52,7 +52,7 @@ permalink: /contact/
 </div>
 <div class="ms-3">
 <h5 class="fw-bold">Ecosystem Audit</h5>
-<p class="text-muted small">We review your existing assets to identify modular gaps in your strategy, architecture, or demand generation.</p>
+<p class="text-muted small">We review your existing assets to identify modular gaps in your strategy, architecture, or lead generation.</p>
 </div>
 </div>
 
