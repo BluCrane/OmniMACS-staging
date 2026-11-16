@@ -97,6 +97,6 @@ card_summary: We define your business model canvas, architect demand-generation 
 <div class="container">
 <h2 class="display-5 fw-bold mb-3">Ready to stop guessing and start building?</h2>
 <p class="lead mb-5 mx-auto" style="max-width: 600px; font-weight: 500;">Let's define your strategic foundation and prepare for scale.</p>
-<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Book a Strategy Call</a>
+<a href="#" class="btn btn-brand-dark btn-lg px-5 py-3">Request a Strategy Call</a>
 </div>
 </section>
