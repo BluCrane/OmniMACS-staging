@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Contact OmniMACS | Start Your Growth Sprint
+title: Your Custom Proposal | OmniMACS
 description: Ready to architect your digital ecosystem? Contact OmniMACS to discuss your modular growth engine needs.
-permalink: /contact/
+permalink: /get-proposal/
 ---
 
 <!-- Contact Hero Section -->
 <section class="py-5 bg-light text-center border-bottom">
 <div class="container py-4">
-<h1 class="display-4 fw-bold mb-3">Stop guessing. Start building.</h1>
-<p class="lead text-muted mx-auto" style="max-width: 700px;">Whether you need an investor-grade strategic narrative or a fully deployed growth engine, we have you covered. Tell us about your current roadblocks.</p>
+<h1 class="display-4 fw-bold mb-3">Request Your Custom Proposal</h1>
+<p class="lead text-muted mx-auto" style="max-width: 700px;">Tell us about your growth bottlenecks below. We’ll follow up with a calendar link for a free consultation to see if our approach to strategy, digital architecture, and growth engines aligns with your goals.</p>
 </div>
 </section>
 
