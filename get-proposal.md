@@ -8,8 +8,8 @@ permalink: /get-proposal/
 <!-- Contact Hero Section -->
 <section class="py-5 bg-light text-center border-bottom">
 <div class="container py-4">
-<h1 class="display-4 fw-bold mb-3">Request Your Custom Proposal</h1>
-<p class="lead text-muted mx-auto" style="max-width: 700px;">Tell us about your growth bottlenecks below. We’ll follow up with a calendar link for a free consultation to see if our approach to strategy, digital architecture, and growth engines aligns with your goals.</p>
+<h1 class="display-4 fw-bold mb-3">Get Your Custom Proposal</h1>
+<p class="lead text-muted mx-auto" style="max-width: 700px;">Tell us about your growth bottlenecks below. We’ll follow up with a calendar link for a free discovery call to see if our approach to strategy, digital architecture, and growth engines aligns with your goals.</p>
 </div>
 </section>
 
@@ -21,7 +21,7 @@ permalink: /get-proposal/
 <!-- Left Column: The HubSpot Form -->
 <div class="col-lg-7">
 <div class="card border-0 shadow-sm p-4 p-md-5" style="height: 90%; background-color: var(--brand-secondary);">
-<h3 class="fw-bold mb-4">Request a Discovery Call</h3>
+<h3 class="fw-bold mb-4">What are Your Growth Bottlenecks?</h3>
 <p class="text-muted mb-4 pb-2 border-bottom">Fill out the form below and we will be in touch shortly.</p>
   
 <!-- HubSpot Form Injection -->
